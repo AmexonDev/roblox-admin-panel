@@ -1,0 +1,9 @@
+{
+  "commands": [
+    {
+      "type": "kick",
+      "user": "robloxx14725836",
+      "reason": "Test kick"
+    }
+  ]
+}
